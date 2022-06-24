@@ -22,6 +22,8 @@ yoksa yazma işlemi yapıldı ve ardından "Consumer" threadi başlatıldı.
 
 # Çıktılar
 
+- Doğru çıktı
+
 ![image](https://user-images.githubusercontent.com/107641642/175663518-0c6b2557-6350-4c7c-b9c1-7c90494cd24c.png)
 
 - Hatalı çıktı
