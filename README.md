@@ -1,4 +1,4 @@
-# Ödev 3-Thread
+## Ödev 3-Thread
 
 # Dosya işlemleri
 
