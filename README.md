@@ -11,12 +11,14 @@
 - Okuma işlemleri için Consumer threadi oluşturuldu.
 
 ![image](https://user-images.githubusercontent.com/107641642/175662998-053c2671-9ce0-4522-90b0-dc52cb92af4b.png)
+
 Burada "score.txt" dosyasındaki tüm karakterleri okuyup "line" adındaki değişkene atadı. Ardından line değişkenini
 ekrana yazdı ve ardından okuma fonksiyonunu kapattı.
 
 - Yazma işlemleri için Producer threadi oluşturuldu.
 
 ![image](https://user-images.githubusercontent.com/107641642/175663278-4d0861a8-151e-45c5-af63-6b0b715fbe73.png)
+
 Burada kullanıcıdan inputlar alındı. Eğer ki skor hatalı girildiyse uyarı verildi. Girilen skorlarda eğer ki sorun
 yoksa yazma işlemi yapıldı ve ardından "Consumer" threadi başlatıldı.
 
