@@ -35,9 +35,3 @@ yoksa yazma işlemi yapıldı ve ardından "Consumer" threadi başlatıldı.
 - score.txt dosyası
 
 ![image](https://user-images.githubusercontent.com/107641642/175663752-43eef8c9-882f-4171-bdbf-7e9007fbc9c6.png)
-
-
-
-
-![image](https://user-images.githubusercontent.com/107641642/175667075-12ea765f-9fb1-4916-8d0a-f2210b8123c8.png)
-
