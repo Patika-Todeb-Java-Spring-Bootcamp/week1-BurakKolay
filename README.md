@@ -1,10 +1,10 @@
-##Ödev 1-Immutable Class
+## Ödev 1-Immutable Class
 
-#Immutable Class Nedir?
+# Immutable Class Nedir?
 
 Immutable (değişmez), nesneler bir kez oluşturulduktan sonra içeriği değiştirilemeyen sınıflardır.
 
-#Tanımlamalar
+# Tanımlamalar
 
 Modeller için ilk olarak bir enum sınıfı oluşturuldu:
 
