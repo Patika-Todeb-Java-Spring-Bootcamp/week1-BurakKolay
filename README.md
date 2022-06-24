@@ -1,12 +1,12 @@
-## Ödev 3-Thread
+# Ödev 3-Thread
 
-# Dosya işlemleri
+## Dosya işlemleri
 
 - İlk olarak dosya işlemleri için dosya adı, yazıcı ve okuyucu ayarlandı. Ardından da dosya oluşturulmadıysa dosya oluşturuldu.
 
 ![image](https://user-images.githubusercontent.com/107641642/175662890-19a4399c-76cb-4a53-aa84-5cae5eeb33c3.png)
 
-# Thread
+## Thread
 
 - Okuma işlemleri için Consumer threadi oluşturuldu.
 
@@ -22,7 +22,7 @@ ekrana yazdı ve ardından okuma fonksiyonunu kapattı.
 Burada kullanıcıdan inputlar alındı. Eğer ki skor hatalı girildiyse uyarı verildi. Girilen skorlarda eğer ki sorun
 yoksa yazma işlemi yapıldı ve ardından "Consumer" threadi başlatıldı.
 
-# Çıktılar
+## Çıktılar
 
 - Doğru çıktı
 
